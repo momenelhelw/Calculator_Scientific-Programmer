@@ -250,7 +250,7 @@ def mod():
 ui.pushButton.clicked.connect(zero)
 ui.pushButton_9.clicked.connect(one)
 ui.pushButton_10.clicked.connect(two)
-ui.pushButton_8.clicked.connect(three)``
+ui.pushButton_8.clicked.connect(three)
 ui.pushButton_5.clicked.connect(four)
 ui.pushButton_6.clicked.connect(five)
 ui.pushButton_7.clicked.connect(six)
